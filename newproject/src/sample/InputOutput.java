@@ -5,9 +5,7 @@ import java.util.Scanner;
 public class InputOutput {
   public static void main(String[] args){
     Scanner scanner = new Scanner(System.in);
-/*    int i = scanner.nextInt();
 
-    System.out.println(i);*/
 
   /*  String s = scanner.nextLine();
     int i2 = Integer.parseInt(s);
