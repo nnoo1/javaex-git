@@ -4,7 +4,7 @@ public class CircleEx {
   public static void main(String[] args) {
     Circle circle = new Circle();
     circle.setRadius(1.0);
-    System.out.printf("circle의 넓이 = %.2f", circle.findAreaa());
+    System.out.printf("circle의 넓이 = %.2f", circle.findArea());
   }
 }
 
@@ -38,7 +38,7 @@ class Circle {
   }
 
   //원의 넓이를 구하는 findArea() 메서드 추가하기(Math.PI 사용)
-  public double findAreaa(){
+  public double findArea(){
     return Math.PI * radius * radius;
   }
 
