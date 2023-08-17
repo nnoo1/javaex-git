@@ -1,4 +1,4 @@
-package challengeCH5;
+package challengeCh5;
 
 public class Test3 {
   //3년간 분기별 이자율에 대한 연평균 이자율과 평균 이자율을 출력하는 예제이다.

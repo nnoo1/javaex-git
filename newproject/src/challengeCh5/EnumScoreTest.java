@@ -1,4 +1,4 @@
-package challengeCH5;
+package challengeCh5;
 
 import java.util.Arrays;
 import java.util.Scanner;

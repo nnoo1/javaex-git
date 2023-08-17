@@ -1,4 +1,4 @@
-package challengeCH5;
+package challengeCh5;
 
 public class Test2 {
 }
