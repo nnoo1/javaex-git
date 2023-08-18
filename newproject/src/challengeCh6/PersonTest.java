@@ -1,4 +1,4 @@
-package ChallengeCh6;
+package challengeCh6;
 
 public class PersonTest {
   public static void main(String[] args) {

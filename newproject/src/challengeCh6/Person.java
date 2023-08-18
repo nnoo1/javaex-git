@@ -1,4 +1,4 @@
-package ChallengeCh6;
+package challengeCh6;
 
 class Person {
   String name;
